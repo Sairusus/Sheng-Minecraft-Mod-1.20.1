@@ -1,0 +1,14 @@
+{
+  "item.shengmod.sapphire": "Sapphire",
+  "item.shengmod.raw_sapphire": "Raw Sapphire",
+
+  "block.shengmod.sapphire_block": "Block of Sapphire",
+  "block.shengmod.raw_sapphire_block": "Block of Raw Sapphire",
+
+  "block.shengmod.sapphire_ore": "Sapphire Ore",
+  "block.shengmod.deepslate_sapphire_ore": "Deepslate Sapphire Ore",
+  "block.shengmod.nether_sapphire_ore": " Nether Sapphire Ore",
+  "block.shengmod.end_stone_sapphire_ore": " Endstone Sapphire Ore",
+
+  "creativetab.sheng_tab": "Sheng Items"
+}

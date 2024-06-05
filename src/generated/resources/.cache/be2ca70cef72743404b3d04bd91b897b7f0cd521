@@ -1,0 +1,5 @@
+// 1.20.1	2024-06-05T13:37:46.339896	Tags for minecraft:block mod id shengmod
+213b465c6d09479dcd93c939cd62605a09e9576c data/forge/tags/blocks/needs_netherite_tool.json
+5a581470255a6b429ff46af78a432186cab02cde data/minecraft/tags/blocks/mineable/pickaxe.json
+c1c961d6dadddba1b21e25e218cd90633e69c1aa data/minecraft/tags/blocks/needs_diamond_tool.json
+bd7985ffca835b37fbf3c68e4ff1dc66385edf7a data/minecraft/tags/blocks/needs_iron_tool.json
